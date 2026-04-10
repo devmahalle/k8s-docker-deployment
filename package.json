@@ -1,0 +1,12 @@
+{
+  "name": "k8s-project",
+  "version": "1.0.0",
+  "description": "Simple node app for k8s deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
