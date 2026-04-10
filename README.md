@@ -9,10 +9,10 @@
 ## Run Steps
 
 ### 1. Build Docker Image
-docker build -t yourdockerhubusername/k8s-app .
+docker build -t devmahalle/k8s-app .
 
 ### 2. Push to Docker Hub
-docker push yourdockerhubusername/k8s-app
+docker push devmahalle/k8s-app
 
 ### 3. Start Kubernetes
 minikube start
